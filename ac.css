@@ -1,0 +1,10 @@
+/*
+
+To whoever's working on AC Rails: Put whatever's in here into app/layouts/application.css
+Thanks
+
+*/
+
+.pseudo-jumbotron-withbg {
+    background-image: url("./jumbotron-bg.png")
+}
