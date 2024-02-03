@@ -6,5 +6,6 @@ Thanks
 */
 
 .pseudo-jumbotron-withbg {
-    background-image: url("./jumbotron-bg.png")
+    background-image: url("./jumbotron-bg.png");
+    background-size: 1750px 500px;
 }
